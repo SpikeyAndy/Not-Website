@@ -32,6 +32,19 @@
     align-items: center;
   }
   
+  #title + div > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #title + div > div > a > img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
   #title + div > div > a > img {
     display: block;
     margin: 0 auto;
