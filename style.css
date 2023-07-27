@@ -1,25 +1,4 @@
-h1{
-	color:White;
-	font-family: 'Courier New', Courier, monospace
- }
- h2{
-	 color:White;
-	 font-family: Arial;
-	 font-family: 'Courier New', Courier, monospace
- }
- img{
-	 width:500px;
-	 height:300px;
-	 border-radius: 10px;
- }
- body {
-	 color: White;
-	 background-image: url("https://cdn.osxdaily.com/wp-content/uploads/2023/06/macOS-Sonoma-default-wallpaper-Light.jpg");
-	 background-size: cover;
-	 background-position: center center;
-	 text-align: center;
-	 font-family: 'Courier New', Courier, monospace;
- }
+
  
 	 /* Styling for the footer */
 
