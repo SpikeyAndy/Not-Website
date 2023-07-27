@@ -74,19 +74,6 @@ body {
     text-align: center;
     padding: 200px 0;
   }
-  
-  .hero h1 {
-    font-size: 48px;
-    margin-bottom: 20px;
-    color: #dcdcdc;
-  }
-  
-  .hero p {
-    font-size: 24px;
-    margin-bottom: 40px;
-    color: #d0d0d0;
-  }
-  
   .cta-button {
     display: inline-block;
     background-color: #333;
