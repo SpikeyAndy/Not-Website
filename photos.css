@@ -1,6 +1,6 @@
 /*basics */
 h1{
-	color:White;
+	color:rgb(0, 0, 0);
 	font-family: 'Courier New', Courier, monospace
  	}
  	h2{
@@ -190,14 +190,6 @@ body {
     top: 0;
     z-index: 2;
     display: flex;
-  }
-  .logo {
-    font-family: "Helvetica Neue", Helvetica, Arial, Bold, sans-serif;
-    background-color: #303030;
-    color: #333;
-    position: relative;
-    border-radius: 5px;
-
   }
   
   /* Style the hero section with a large background image and centered text */
