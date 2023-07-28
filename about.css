@@ -21,9 +21,6 @@ h1{
 		 text-align: center;
 		 font-family: 'Courier New', Courier, monospace;
  	}
-
-
-    
 	/* Styling for the footer */
 
 	footer {
@@ -36,6 +33,65 @@ h1{
 		 font-size: 14px;
 	 }
 
+	 /* Styling for the main content */
+
+	 main {
+		 padding: 20px;
+	 }
+
+	 main h2 {
+		 font-size: 24px;
+		 margin-top: 0;
+	 }
+
+	 main p {
+		 font-size: 18px;
+		 margin-top: 10px;
+	 }
+
+	 /* Style for the navigation bar */
+	 nav {
+		 background-color: #202020;
+		 height: 80px;
+		 display: flex;
+		 align-items: center;
+		 padding: 0 20px;
+		 position: fixed;
+		 z-index: 1;
+	 }
+
+	 nav ul {
+		 list-style: none;
+		 margin: 0;
+		 padding: 0;
+	 }
+
+	 nav li {
+		 margin-right: 20px;
+	 }
+
+	 nav a {
+		 display: block;
+		 color: #fff;
+		 text-decoration: none;
+		 padding: 10px;
+		 transition: background-color 0.3s;
+			 border-radius: 10px; /
+
+	 }
+
+	 nav a:hover {
+		 background-color: #333;
+		 
+	 }
+
+	 .logo {
+		 font-size: 24px;
+		 font-weight: bold;
+		 color: #fff;
+		 text-decoration: none;
+		 margin-right: auto;
+	 }
 	 /* Styling for the main content */
 
 	 main {
