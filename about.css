@@ -1,4 +1,4 @@
-/* basics */
+/*basics */
 h1{
 	color:White;
 	font-family: 'Courier New', Courier, monospace
@@ -21,6 +21,9 @@ h1{
 		 text-align: center;
 		 font-family: 'Courier New', Courier, monospace;
  	}
+
+
+    
 	/* Styling for the footer */
 
 	footer {
@@ -81,7 +84,7 @@ h1{
 	 }
 
 	 nav a:hover {
-		 background-color: #333;
+		 background-color: #6d6d6d;
 		 
 	 }
 
